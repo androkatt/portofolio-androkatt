@@ -1,3 +1,9 @@
 Prestige
 The Office
 Bundy
+
+Git order 
+- Do the edit in files
+- git add filename+extension or git add * (all)
+- git commit -m "commit description"
+- git push (push to repo)
