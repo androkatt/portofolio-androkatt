@@ -4,6 +4,9 @@ Bundy
 
 Git order 
 - Do the edit in files
+- git status -S (M rosu este modificat)
 - git add filename+extension or git add * (all)
+- git status -S (M verde este modificat si adaugat?)
+- git reset filename+extension (il scoate din add(staging))
 - git commit -m "commit description"
 - git push (push to repo)
